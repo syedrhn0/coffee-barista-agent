@@ -139,12 +139,6 @@ coffee-barista-agent/
 
 ## 📸 Application Screenshots
 
-### 👋 Welcome
-
-The application provides a conversational interface where customers can interact with the virtual barista.
-
-![Welcome](screenshots/welcome.png)
-
 ### 💪 Finding Something Strong
 
 The agent understands natural-language preferences and searches the menu for suitable drinks.
@@ -156,12 +150,6 @@ The agent understands natural-language preferences and searches the menu for sui
 The agent can identify and provide information about specific drinks based on the customer's request.
 
 ![Matcha Frappuccino](screenshots/matcha_frappuccino.png)
-
-### 🛒 Adding a Drink
-
-The conversation can continue from recommendation to drink selection.
-
-![Matcha Drink Added](screenshots/matcha_drink_added.png)
 
 ### 🥛 Lactose-Intolerant Customer
 
